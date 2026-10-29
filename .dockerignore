@@ -4,4 +4,8 @@
 __pycache__
 *.pyc
 .DS_Store
+.env
+database/.env
 README.md
+database/
+class_dataset.csv
